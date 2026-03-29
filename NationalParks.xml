@@ -113,4 +113,15 @@
     <Zip>99755</Zip>
   </Address>
   </NationalPark>
+  <NationalPark>          
+  <Name>Redwoods</Name>
+  <Phone>707-464-6101</Phone>
+  <Address NearestAirport="Del Norte County">
+    <Number>119451</Number>
+    <Street>U.S. 101</Street>
+    <City>Orick</City>
+    <State>CA</State>
+    <Zip>95555</Zip>
+  </Address>
+  </NationalPark>
 </NationalParks>
